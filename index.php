@@ -17,7 +17,7 @@
         <!-- secondary background -->
         <div class="flex justify-center bg-white second-background">
             <!-- thirdary background -->
-            <div class="bg-green-500 w-11/12 third-background">
+            <div class="w-11/12 third-background">
                 <!-- navbar -->
                 <div class="flex h-16 bg-white">
                     <!-- navbar three components -->
@@ -48,6 +48,36 @@
                         </div>
                     </div>
                 </div>
+                <!-- navbar ends -->
+
+                <!-- introduction of text -->
+                <div class="flex  introduction">
+                    <div class="grid w-2/4 flex-column  h-full">
+                        <!-- text -->
+                        <div class="flex justify-start items-end  text-6xl" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+                            <p>We Love <br>Delicious Food!</p>
+                        </div>
+                        <!-- buttons -->
+                        <div class="flex justify-start items-start">
+                            <a href="#" class="bg-red-500 text-white rounded-3xl h-10 w-36 flex justify-center items-center mt-10">
+                                Explore Menu
+                            </a>
+                            <a href="#"class="h-10 w-36 flex justify-center items-center mt-10">
+                            <img src="./images/play-video.jpg" class="h-5 w-5">    
+                             Play Video
+                            </a>
+                        </div>
+                    </div>
+                    <div class="w-2/4  h-full">
+                        <!-- intro image / main image -->
+                        <div class="flex justify-center items-center image-intro">
+                            <img src="./images/main-image2.jpg" class="main-image-sizing">
+                        </div>
+                    </div>
+                </div>
+                <!-- introduction overs -->
+                </div>
+
             </div>
         </div>
     </div>

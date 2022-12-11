@@ -3,10 +3,31 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .second-background
 {
     height: 97vh;
     width: 98.5%;
 }
-/*  */
+/*  introduction starts*/
+.introduction
+{
+    height: 90%;
+}
+.main-intro-text
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+}
+.image-intro
+{
+    height: 100%;
+    width: 100%;
+}
+.main-image-sizing
+{
+    height: 95%;
+    width: 93%;
+    opacity: 0.8;
+}
