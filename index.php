@@ -83,11 +83,17 @@
                                 </div>
                         </div>
                     </div>
+                    
+                    <!-- intro image / main image -->
                     <div class="w-2/4  h-full">
-                        <!-- intro image / main image -->
-                        <div class="flex justify-center items-center image-intro">
+                        <div class="flex justify-end items-end image-intro">
                             <img src="./images/main-image2.jpg" class="main-image-sizing">
+                            <div class="h-24 w-80 absolute flex justify-end items-center ">
+                                <img src="./images/edited greater.jpg" class="h-28 opacity-75">
+                                <img src="./images/edited smaller.jpg" class="h-28 opacity-75">
+                            </div>
                         </div>
+                        <!-- swipe left and swipe right  -->
                     </div>
                 </div>
                 <!-- introduction overs -->
