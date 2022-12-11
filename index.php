@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RESTO</title>
-    <link rel="stylesheet" href="./style.css"><!--custom css-->
+    <link rel="stylesheet" href="./components/style.css"><!--custom css-->
     <script src="https://cdn.tailwindcss.com"></script><!--tailwind css-->
 </head>
 <body>
