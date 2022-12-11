@@ -58,7 +58,7 @@
                             <p>We Love <br>Delicious Food!</p>
                         </div>
                         <!-- buttons -->
-                        <div class="flex justify-start items-start">
+                        <div class="flex justify-start items-start ">
                             <a href="#" class="bg-red-500 text-white rounded-3xl h-10 w-36 flex justify-center items-center mt-10">
                                 Explore Menu
                             </a>
@@ -66,6 +66,21 @@
                             <img src="./images/play-video.jpg" class="h-5 w-5">    
                              Play Video
                             </a>
+                        </div>
+                        <!-- intro of flexing -->
+                        <div class="flex justify-start items-start text-lg text-gray-600">
+                                <div>
+                                    <img src="./images/fast-delivery.jpg" class="h-16 w-24 border-r-4">
+                                    <p class="">Fast Delivery</p>
+                                </div>
+                                <div>
+                                    <img src="./images/fresh-food.jpg" class="h-16 w-24 border-r-4 ">
+                                    <p class="pl-2">Fresh Food</p>
+                                </div>
+                                <div>
+                                    <img src="./images/247support.jpg" class="h-16 w-24  border-r-4">
+                                    <p class="pl-2">24/7 Services</p>
+                                </div>
                         </div>
                     </div>
                     <div class="w-2/4  h-full">
