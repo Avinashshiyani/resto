@@ -13,7 +13,7 @@
 </head>
 <body>
     <!-- main background  -->
-    <div class="flex justify-center items-center h-screen w-screen bg-red-200">
+    <div class="flex justify-center items-center h-screen w-screen bg-red-100">
         <!-- secondary background -->
         <div class="flex justify-center bg-white second-background">
             <!-- thirdary background -->
@@ -43,9 +43,9 @@
                             <a href="#" class="px-2">Reservation</a>
                         </div>
                         <!-- search buttons -->
-                        <div class="flex justify-end items-center h-16">
-                            <img src="./images/search.jpg" class="h-10">
-                        </div>
+                    </div>
+                    <div class="flex justify-end items-center h-16">
+                        <img src="./images/search.jpg" class="h-10">
                     </div>
                 </div>
                 <!-- navbar ends -->
@@ -85,20 +85,21 @@
                     </div>
                     
                     <!-- intro image / main image -->
-                    <div class="w-2/4  h-full">
-                        <div class="flex justify-end items-end image-intro">
-                            <img src="./images/main-image2.jpg" class="main-image-sizing">
-                            <div class="h-24 w-80 absolute flex justify-end items-center ">
-                                <img src="./images/edited greater.jpg" class="h-28 opacity-75">
-                                <img src="./images/edited smaller.jpg" class="h-28 opacity-75">
+                    <div class="w-2/4 h-full ">
+                        <div class="flex justify-center items-center image-intro">
+                            <img src="./images/main-image2.jpg" class="w-11/12">
+                            <!-- swipe left and swipe right  -->
+                            <div class="w-2/4 absolute bg-green-500 flex justify-end items-end mt-80 pt-6 ml-28">
+                                   <div class="flex justify-end items-end bg-red-500">
+                                    <img src="./images/edited greater.jpg" class="h-20 opacity-75">
+                                    <img src="./images/edited smaller.jpg" class="h-20 opacity-75">
+                                    </div>
                             </div>
                         </div>
-                        <!-- swipe left and swipe right  -->
                     </div>
                 </div>
                 <!-- introduction overs -->
                 </div>
-
             </div>
         </div>
     </div>
