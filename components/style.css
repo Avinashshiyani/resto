@@ -20,14 +20,15 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 100;
 }
-.image-intro
+/* .image-intro
 {
-    height: 100%;
-    width: 100%;
-}
-.main-image-sizing
+    height: 50%;
+    width: 50%;
+} */
+/* .main-image-sizing
 {
-    height: 95%;
-    width: 93%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     opacity: 0.8;
-}
+} */
