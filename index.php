@@ -85,14 +85,14 @@
                     </div>
                     
                     <!-- intro image / main image -->
-                    <div class="w-2/4 h-full ">
+                    <div class="w-2/4 flex justify-center">
                         <div class="flex justify-center items-center image-intro">
-                            <img src="./images/main-image2.jpg" class="w-11/12">
+                            <img src="./images/main-image2.jpg" class="w-100">
                             <!-- swipe left and swipe right  -->
-                            <div class="w-2/4 absolute bg-green-500 flex justify-end items-end mt-80 pt-6 ml-28">
-                                   <div class="flex justify-end items-end bg-red-500">
-                                    <img src="./images/edited greater.jpg" class="h-20 opacity-75">
-                                    <img src="./images/edited smaller.jpg" class="h-20 opacity-75">
+                            <div class="w-2/6 absolute flex justify-end items-end mt-64 pt-2 mr-12 ml-12">
+                                   <div class="flex justify-end items-end">
+                                    <img src="./images/edited greater.jpg" class="h-20">
+                                    <img src="./images/edited smaller.jpg" class="h-20">
                                     </div>
                             </div>
                         </div>
