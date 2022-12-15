@@ -119,17 +119,17 @@
                             <!-- for grid items -->
                             <div class="grid">
                                 <img src="./images/pizza.avif" alt="image" class="w-56 h-40">
-                                <p>Special Australian Pizza</p>
+                                <p class="text-red-500 text-lg">Special Australian Pizza</p>
                             </div>
                             <!-- for grid items -->
                             <div class="grid">
                                 <img src="./images/pizza.avif" alt="image" class="w-56 h-40">
-                                <p>Special Australian Pizza</p>
+                                <p class="text-red-500 text-lg">Special Australian Pizza</p>
                             </div>
                             <!-- for grid items -->
                             <div class="grid">
                                 <img src="./images/pizza.avif" alt="image" class="w-56 h-40">
-                                <p>Special Australian Pizza</p>
+                                <p class="text-red-500 text-lg">Special Australian Pizza</p>
                             </div>
                         </div>
                     </div>
