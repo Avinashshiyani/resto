@@ -13,7 +13,7 @@
 </head>
 <body>
     <!-- main background  -->
-    <div class="flex justify-center items-center h-screen w-screen bg-red-100">
+    <div class="flex justify-center items-center bg-red-100">
         <!-- secondary background -->
         <div class="flex justify-center bg-white second-background">
             <!-- thirdary background -->
@@ -51,7 +51,7 @@
                 <!-- navbar ends -->
 
                 <!-- introduction of text -->
-                <div class="flex  introduction">
+                <div class="flex introduction">
                     <div class="grid w-2/4 flex-column  h-full">
                         <!-- text -->
                         <div class="flex justify-start items-end  text-6xl" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
@@ -99,7 +99,42 @@
                     </div>
                 </div>
                 <!-- introduction overs -->
+                <!-- show cases section over -->
+                <div class="flex w-full">
+                    <!-- images div -->
+                    <div class=" w-2/4 flex justify-center">
+                        <img src="./images/chocolate.avif" alt="image" class="h-full">
+                    </div>
+                    <!-- about us section -->
+                    <div class="w-2/4">
+                        <p class="text-red-500 text-2xl mt-5">About</p>
+                        <p class="text-4xl mt-1">Welcome to resto</p>
+                        <p class="text-md text-grey-100 mt-12">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet nobis assumenda minus odio dolores nemo minima, odit molestias? Sapiente tempora, nesciunt veritatis ut quia laudantium inventore aut nihil necessitatibus sed!
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae dicta esse ullam dolor alias delectus, praesentium ut nesciunt. Temporibus vitae ullam delectus in? Doloribus magnam accusamus qui adipisci temporibus molestiae.
+                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure recusandae laboriosam, voluptate odio consequatur temporibus cupiditate? Quidem reprehenderit illo ex a provident laudantium quibusdam fugiat cumque labore. Nisi, officiis enim.
+                        </p>
+                        <p class="text-3xl mt-20">Special Recepie</p>
+                        <div class="flex h-auto w-full mt-5 justify-between">
+                            <!-- for grid items -->
+                            <div class="grid">
+                                <img src="./images/pizza.avif" alt="image" class="w-56 h-40">
+                                <p>Special Australian Pizza</p>
+                            </div>
+                            <!-- for grid items -->
+                            <div class="grid">
+                                <img src="./images/pizza.avif" alt="image" class="w-56 h-40">
+                                <p>Special Australian Pizza</p>
+                            </div>
+                            <!-- for grid items -->
+                            <div class="grid">
+                                <img src="./images/pizza.avif" alt="image" class="w-56 h-40">
+                                <p>Special Australian Pizza</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+            </div>
             </div>
         </div>
     </div>
