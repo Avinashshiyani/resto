@@ -12,7 +12,7 @@
     <link href="https://fonts.googleapis.com/css2?family=La+Belle+Aurore&family=Quicksand:wght@500&display=swap" rel="stylesheet">
 </head>
 <body>
-    <!-- main background  -->
+    <!-- main backgrounad  -->
     <div class="flex justify-center items-center bg-red-100">
         <!-- secondary background -->
         <div class="flex justify-center bg-white second-background">
