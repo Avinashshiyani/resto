@@ -3,32 +3,20 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-.second-background
+.white-background
 {
-    height: 97vh;
-    width: 98.5%;
+    height: 100%;
+    width: 90%;
 }
-/*  introduction starts*/
-.introduction
+/* .container
 {
-    height: 90%;
-}
-.main-intro-text
-{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-weight: 100;
-}
-/* .image-intro
-{
-    height: 50%;
-    width: 50%;
+  margin-left: 150px;
+  margin-right: 150px;
 } */
-/* .main-image-sizing
+.main-image
 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    opacity: 0.8;
-} */
+    background-image: url(https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&);
+    height: 100%;
+    width: 100%;
+}
