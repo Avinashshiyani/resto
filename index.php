@@ -77,14 +77,56 @@
 
         <!-- intro second starts -->
         <div class="bg-white p-2 flex">
-            <div class="container bg-red-500 mx-24 mt-16 flex">
+            <div class="container  mx-24 mt-16 flex">
                 <div class="w-2/4  main-image bg-no-repeat bg-center bg-cover">
                 </div>
-                <div class="w-2/4">
-                    
+                <!-- second intro info -->
+                <div class="w-2/4  mx-8 my-2 grid space-y-1 mt-10">
+                    <span class="text-2xl text-red-500 font-bold">About</span>
+                    <span class="text-3xl font-bold">Welcome To resto</span>
+                    <span class="text-lg pt-16">
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi perferendis cupiditate, praesentium mollitia ea dolores, exercitationem esse culpa hic accusamus sed voluptates minus. Error, qui pariatur eligendi quae necessitatibus eius?
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi perferendis cupiditate, praesentium mollitia ea dolores, exercitationem esse culpa hic accusamus sed voluptates minus. Error, qui pariatur eligendi quae necessitatibus eius?
+                    </span>
+                    <span class="text-2xl font-bold pt-12">Special Recepie</span>
+                    <div class="flex  space-x-3">                        
+                        <div class="w-2/4 main-image h-32 bg-cover"></div>
+                        <div class="w-2/4 main-image h-32 bg-cover"></div>
+                        <div class="w-2/4 main-image h-32 bg-cover"></div>
+                    </div>
+                    <div class="flex space-x-8 text-lg text-red-500">
+                    <p class="">Australian Special Salad</p>
+                    <p class="">Australian Special Salad</p>
+                    <p class="pl-4">Australian Special Salad</p>
+                    </div>
                 </div>
             </div>
         </div>
         <!-- intro second overs -->
+
+        <!-- slate div started -->
+        <div class="bg-slate-100 flex p-2">
+            <div class="container bg-slate-100 mx-24">
+                <div class="grid justify-center  items-center">
+                    <span class="text-red-500 flex justify-center">Specialities</span>
+                    <span class="text-3xl font-bold">Special Dishes</span>
+                </div>
+                <!-- slate div introduction starts -->
+                <div class="flex">
+                    <div class="w-2/4 flex items-center bg-green-100">
+                        <span class="text-4xl font-bold">01.</span>
+                        <div class="h-0.5 w-80 bg-black"></div>
+                        <div class="flex bg-red-100 ">
+                            <span>Pizza</span>
+                            <span>Peri Souce</span>
+                        </div>
+                    </div>
+                    <!-- slate div introduction over -->  
+                    <div class="w-2/4 bg-red-300">
+                        1
+                    </div>
+                </div>
+            </div>
+        </div>
 </body>
 </html>
